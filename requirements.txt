@@ -1,0 +1,7 @@
+gradio
+groq
+gtts
+requests
+dotenv
+sounddevice
+scipy
